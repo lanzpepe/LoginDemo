@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "178566687846",
+    "firebase_url": "https://login-demo-fdb9f.firebaseio.com",
+    "project_id": "login-demo-fdb9f",
+    "storage_bucket": "login-demo-fdb9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178566687846:android:3f58c3db0b1f812f",
+        "android_client_info": {
+          "package_name": "com.elano.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178566687846-u37pqhq6dcdbsu699q8967mkp1abo3em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elano.logindemo",
+            "certificate_hash": "91e1028f3ea25ee1fc3edbc6a285fe46adbb1f91"
+          }
+        },
+        {
+          "client_id": "178566687846-fok114rihof7d3fme5rcp4aetv6j1nls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpyT5JoALc7Htpw9ZpKUwXvZmQhDODkhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178566687846-fok114rihof7d3fme5rcp4aetv6j1nls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
